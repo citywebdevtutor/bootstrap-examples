@@ -1,0 +1,38 @@
+/* col-sm bp will execute any screen size < 576px, stack the columns */
+div.col-sm{
+    border: 1px solid #000;
+    background-color: #E6E2EA;
+}
+
+/* col-md bp will execute any screen size < 768px, stack the columns */
+div.col-md{
+    border: 1px solid #000;
+    background-color: #E6E2EA;
+}
+
+/* col-lg bp will execute any screen size < 992px, stack the columns */
+div.col-lg{
+    border: 1px solid #000;
+    background-color: #E6E2EA;
+}
+
+/* col-xlg bp will execute any screen size < 1200px, stack the columns */
+div.col-xl{
+    border: 1px solid #000;
+    background-color: #E6E2EA;
+}
+
+/* col will maintain columns with no bp and keep columns aligned horizontally */
+div.col{
+    border: 1px solid #000;
+    background-color: #E6E2EA;
+}
+
+.grey{
+    background-color: #E6E2EA;
+    border: 1px solid #000;
+}
+
+/*.container-width{ width: 90%; background-color: indianred; }*/
+.container-height{ height: 50vh; background-color: indianred; }
+
